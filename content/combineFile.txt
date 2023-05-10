@@ -1,0 +1,2 @@
+Combined text looks like: Hello this is first txt file.
+ and Hello this is second txt file.
